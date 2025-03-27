@@ -67,9 +67,5 @@ To extract, transform, and visualize player-level cricket stats to generate perf
 - Integrate match outcomes to evaluate team formations  
 - Embed dashboard into a web portal
 
----
 
-## 📬 Contact
-
-For questions or collaborations, reach out at [your_email@example.com] or connect via [LinkedIn](https://linkedin.com/in/yourname)
 
