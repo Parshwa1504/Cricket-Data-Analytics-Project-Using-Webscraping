@@ -41,14 +41,28 @@ To extract, transform, and visualize player-level cricket stats to generate perf
 
 ## 🖼️ Screenshots
 
-### 📌 Player Categories and Summary Stats  
-![Power Hitters View](Images/Screenshot_2025-03-26_195755.png)
+### 📌 Power Hitters / Openers  
+![](Images/1.png)
 
-### 📌 Bowling Metrics and Strike Rate Analysis  
-![Bowling Dashboard](Images/Screenshot_2025-03-26_195824.png)
+### 📌 Anchors  / Middle Order  
+![](Images/2.png)
 
-### 📌 Final 12 Selection + Tooltip Info Panel  
-![Final 12 with Tooltips](Images/Screenshot_2025-03-26_195950.png)
+### 📌Finisher / Lower Order Anchor  
+![](Images/3.png)
+
+### 📌 All Rounders / Lower Middle Order  
+![](Images/4.png)
+
+### 📌 Specialist Fast Bowlers / Tail End  
+![](Images/5.png)
+
+### 📌 Final 12 Selection  
+![](Images/6.png)
+
+### 📌 Tooltip Info Panel  
+![](Images/7.png)
+
+
 
 ---
 
